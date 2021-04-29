@@ -1,5 +1,7 @@
-### Hi there 👋
+Hayatta en hakiki mürşit ilimdir.
+---------------------------------
 
+🌱 I’m currently learning Java
 <!--
 **Brostagma/Brostagma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
