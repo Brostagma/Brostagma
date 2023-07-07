@@ -1,7 +1,6 @@
 Hayatta en hakiki mürşit ilimdir.
 ---------------------------------
 
-🎮 I’m not a king I'm not a god I'm programmer <br>
 🍺 Enjoy life
 <!--
 **Brostagma/Brostagma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
